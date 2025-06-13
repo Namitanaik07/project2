@@ -1,3 +1,3 @@
-#New project
+git status
+git log --oneline --graph --decorate --all
 
-this project was created from local system.
